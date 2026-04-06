@@ -58,6 +58,7 @@ SEI-Framework/
 │   ├── canvas-ui-spec.template.md
 │   ├── ai-builder-rules.md
 │   └── sei-validation-checklist.md
+├── lite/                 # SEI-Lite: markdown-only specs for AI agents (see lite/README.md)
 └── EXPERIENCE/           # UX and design
     ├── spatial-ux-rules.md
     ├── narrative-layer.template.md
