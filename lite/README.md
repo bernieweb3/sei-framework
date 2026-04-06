@@ -76,7 +76,7 @@ lite/
 └── 07-DOCS/
 ```
 
-`FOUNDATION/`, `ARCHITECTURE/`, and `IMPLEMENTATION/` at repo root stay unchanged.
+On branch **`lite`**, the repository root holds only this pack (`lite/` plus root `README.md` / `INDEX.md`). The **full SEI framework** is on branch **`main`**.
 
 ## Git commits
 

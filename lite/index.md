@@ -33,12 +33,10 @@ Start here: [`05-AI-PROMPTS/00-prompt-index.md`](05-AI-PROMPTS/00-prompt-index.m
 | Plain-language props (VN and/or EN) | Each `02-OBJECTS/**/*.md` |
 | WCAG 2.1 AA expectations | `06-VALIDATION/02-accessibility-checklist.md` |
 
-## Link to core SEI
+## Full SEI framework (optional)
 
-For deeper SEI concepts (mental model, architecture templates), see repo root:
+Deeper SEI docs (Foundation, Architecture, Implementation, Experience) live on branch **`main`** of this repository, not on the `lite` branch:
 
-- `FOUNDATION/`
-- `ARCHITECTURE/`
-- `IMPLEMENTATION/`
+https://github.com/bernieweb3/sei-framework/tree/main
 
-SEI-Lite stays **self-contained** for quick builds; link outward only when the product needs full SEI depth.
+SEI-Lite stays **self-contained** under `lite/` for frontend scope; use **`main`** only when you need the full framework.
